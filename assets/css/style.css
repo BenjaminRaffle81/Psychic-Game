@@ -1,0 +1,29 @@
+#game {
+	font-size: 27px;
+	line-height: 34px;
+	font-family: 'Marcellus SC', serif;
+	color: rgb(73, 106, 196);
+}
+
+* {
+	box-sizing: border-box;
+}
+
+h1, p {
+	margin-bottom: 20px;
+}
+
+h1{
+	font-family: 'Sefer AH';
+	font-weight: 700;
+}
+h1 {
+	font-size: 55px;
+	line-height: 49px;
+	border-bottom: 3px solid #ddd;
+	padding-bottom: 20px;
+}
+div{
+	margin: 20px;
+	padding: 10px;
+}
